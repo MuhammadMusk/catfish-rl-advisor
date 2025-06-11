@@ -1,0 +1,5 @@
+Date,Temperature (°C),pH,DO (mg/L),Recommended Action
+2025-06-10 19:19:51,28.0,7.0,5.0,♻️ Drain and refill pond — severe imbalance detected.
+2025-06-10 19:38:15,28.0,7.0,5.0,♻️ Drain and refill pond — severe imbalance detected.
+2025-06-10 19:38:42,24.7,8.0,3.6,♻️ Drain and refill pond — severe imbalance detected.
+2025-06-10 19:40:13,33.8,8.2,6.5,✅ Do nothing — conditions are acceptable.
